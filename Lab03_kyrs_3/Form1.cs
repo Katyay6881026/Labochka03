@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Lab03_kyrs_3
 {
-    public partial class  Form1 : Form
+    public partial class Form1 : Form
     {
         public Form1()
         {
